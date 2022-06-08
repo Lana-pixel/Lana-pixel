@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lana
+- 👋 Hey, I’m Lana
 - 👀 I’m interested in web development, web ui design, webflow, figma
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning js,node.js
 
 
 
